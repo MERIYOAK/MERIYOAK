@@ -31,6 +31,20 @@
 
 ---
 
+## 📊 GitHub Stats & Activity
+
+<!-- GitHub Stats -->
+![Meron's GitHub Stats](https://github-readme-stats.vercel.app/api?username=meronabrha&show_icons=true&theme=tokyonight)
+
+<!-- Top Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=meronabrha&layout=compact&theme=tokyonight)
+
+<!-- Contribution Streak -->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=meronabrha&theme=tokyonight)
+
+---
+
+
 ## 📫 Let's Connect
 
 - 🌍 Website: [www.meronvault.com](https://www.meronvault.com)  

@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Meron Michael Abrha
 
-💻 Web Developer | 📊 Accountant | 🔬 Clinical Laboratory Scientist   
+💻 Web Developer | 🔬 Clinical Laboratory Scientist   
 🌍 Living in Luanda, Angola | 🇪🇷 From the Highlands of Eritrea  
 🎓 Passionate about Biotechnology, The Web, and Finance  
 
